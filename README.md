@@ -28,3 +28,4 @@ local bar = "foo"
 print(bar,foo)
 ```
 5. avoid using properly-named variables if you can. use the 26 letters of the alphabet. a notable exception to this is collecting arguments, which can be properly named `args` or some variation.
+6. if your trinket makes http requests, please put `{ ["User-Agent"] = "<trinket name>/0.0" }` in the "headers" argument. for more information, see [ComputerCraft:Tweaked HTTP docs](https://tweaked.cc/module/http.html).
