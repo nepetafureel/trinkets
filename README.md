@@ -7,6 +7,8 @@ little programs for [ComputerCraft:Tweaked](https://computercraft.cc/) (and emul
 
 to contribute, you can fork this and make a trinket, then submit a pull request. if it follows these rules and the general purpose of a trinket (being based on real-life command utilities and being simple to use) it will be added :3
 
+for information on individual trinkets, visit [the wiki](https://github.com/nepetafureel/trinkets/wiki/) :3
+
 guidelines for making a trinket:
 
 1. choose a real-life command utility to be inspired by or to recreate the basic function of.
