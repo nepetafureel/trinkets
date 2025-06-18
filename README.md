@@ -1,11 +1,16 @@
 # trinkets
-little programs for [ComputerCraft:Tweaked](https://computercraft.cc/) (and emulators like [CCEmuX](https://emux.cc/) and [CraftOS-PC](https://www.craftos-pc.cc/)) based on real-life command line utilities. all trinkets showcased in this repository are made with three rules:
+little programs for [ComputerCraft:Tweaked](https://computercraft.cc/) (and emulators like [CCEmuX](https://emux.cc/) and [CraftOS-PC](https://www.craftos-pc.cc/)) often based on real-life command line utilities. trinkets can be:
+
+- based on real-life command line utilities (such as `cat` or `pwd`)
+- original but helpful to the environment they're meant to be used in (such as a peripherals manager for emulators)
+
+all trinkets showcased in this repository are made with three rules:
 
 1. the top two lines must be program info
 2. the program must fit in as little lines as possible even if it will sacrifice some code readability
 3. never use ai
 
-to contribute, you can fork this and make a trinket, then submit a pull request. if it follows these rules and the general purpose of a trinket (being based on real-life command utilities and being simple to use) it will be added :3
+to contribute, you can fork this and make a trinket, then submit a pull request. if it follows these rules and the guideline of what a trinket is, it will be added :3
 
 for information on individual trinkets, visit [the wiki](https://github.com/nepetafureel/trinkets/wiki/) :3
 
