@@ -16,7 +16,7 @@ for information on individual trinkets, visit [the wiki](https://github.com/nepe
 
 guidelines for making a trinket:
 
-1. choose a real-life command utility to be inspired by or to recreate the basic function of.
+1. choose a real-life command utility to be inspired by or to recreate the basic function of OR an idea on how to make a useful CraftOS-specific program
 2. the first line must follow this format: `<file name> by <your github user> for nepetafureel/trinkets on github and is subject to the terms of the MIT license`
 3. the second line must be a short sentence about what the trinket does.
 4. never leave space between blocks of code.
